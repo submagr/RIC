@@ -2,11 +2,11 @@
 
 <img src="imgs/example.gif" alt="RIC Example" width="480"/>
 
-[[Project Page]](https://samsunglabs.github.io/RIC-project-page/) [[ArXiv]](https://arxiv.org/pdf/2307.11932.pdf)
+[[Project Page]](https://submagr.github.io/RIC-Project-Page/) [[ArXiv]](https://arxiv.org/pdf/2307.11932.pdf)
 <br>
 [Isaac Kasahara](https://kasai2020.github.io/), [Shubham Agrawal](https://www.agshubh.com),
 [Selim Engin](https://ksengin.github.io/), [Nikhil Chavan-Dafle](https://nikhilcd.com),
-[Shuran Song](https://scholar.google.com/citations?user=5031vK4AAAAJ&hl=en&oi=ao), [Volkan Isler](https://www-users.cse.umn.edu/~isler/)
+[Shuran Song](https://shurans.github.io/), [Volkan Isler](https://www-users.cse.umn.edu/~isler/)
 <br>
 [Samsung AI Center, New York](https://research.samsung.com/aicenter_ny)
 
@@ -37,7 +37,7 @@
 
     Navigate back to RIC_Project folder
     ```bash
-    git clone https://github.com/SamsungLabs/RIC.git
+    git clone https://github.com/submagr/RIC.git
     ```
 
     Folder structure should look like this:
@@ -58,7 +58,7 @@
 
 5. **Download weights for depth completion**
 
-    Download the weights for [surface normal](https://github.com/SamsungLabs/RIC/releases/download/v1.0/surface_normals.pth) and [occlusion boundary](https://github.com/SamsungLabs/RIC/releases/download/v1.0/occlusion_boundaries.pth) estimation and place them in the RIC/weights/ folder.
+    Download the weights for [surface normal](https://github.com/submagr/RIC/releases/download/v1.0/surface_normals.pth) and [occlusion boundary](https://github.com/submagr/RIC/releases/download/v1.0/occlusion_boundaries.pth) estimation and place them in the RIC/weights/ folder.
 
 6. **Install HOPE Dataset**
 
